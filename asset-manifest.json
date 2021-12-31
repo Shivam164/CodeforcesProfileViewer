@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeforcesProfileViewer/static/css/main.2dd7717a.chunk.css",
+    "main.js": "/CodeforcesProfileViewer/static/js/main.0fb2ca78.chunk.js",
+    "main.js.map": "/CodeforcesProfileViewer/static/js/main.0fb2ca78.chunk.js.map",
+    "runtime-main.js": "/CodeforcesProfileViewer/static/js/runtime-main.21b019c1.js",
+    "runtime-main.js.map": "/CodeforcesProfileViewer/static/js/runtime-main.21b019c1.js.map",
+    "static/js/2.14854975.chunk.js": "/CodeforcesProfileViewer/static/js/2.14854975.chunk.js",
+    "static/js/2.14854975.chunk.js.map": "/CodeforcesProfileViewer/static/js/2.14854975.chunk.js.map",
+    "static/js/3.ec5782aa.chunk.js": "/CodeforcesProfileViewer/static/js/3.ec5782aa.chunk.js",
+    "static/js/3.ec5782aa.chunk.js.map": "/CodeforcesProfileViewer/static/js/3.ec5782aa.chunk.js.map",
+    "index.html": "/CodeforcesProfileViewer/index.html",
+    "static/css/main.2dd7717a.chunk.css.map": "/CodeforcesProfileViewer/static/css/main.2dd7717a.chunk.css.map",
+    "static/js/2.14854975.chunk.js.LICENSE.txt": "/CodeforcesProfileViewer/static/js/2.14854975.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b019c1.js",
+    "static/js/2.14854975.chunk.js",
+    "static/css/main.2dd7717a.chunk.css",
+    "static/js/main.0fb2ca78.chunk.js"
+  ]
+}
